@@ -12,6 +12,6 @@ public class TogetherHomeServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
-        resp.getWriter().append("Hello world!");
+        resp.getWriter().append("Tior931108");
     }
 }
