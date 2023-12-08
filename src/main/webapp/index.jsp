@@ -20,6 +20,7 @@
     <%-- script --%>
 
     <%-- Tior931108 start--%>
+    <script src="https://zzz.com/zzz.js"></script>
     <%-- Tior931108 end--%>
 
     <%-- ehtjsdlfqhd start--%>
