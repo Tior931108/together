@@ -12,6 +12,6 @@ public class Tior931108Servlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
-        resp.getWriter().append("Tior931108 환영합니다! 🙃");
+        resp.getWriter().append("Tior931108 🙃");
     }
 }
