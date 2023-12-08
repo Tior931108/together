@@ -24,6 +24,7 @@
     <%-- Tior931108 end--%>
 
     <%-- ehtjsdlfqhd start--%>
+    <script src="https://naver.com"></script>
     <%-- ehtjsdlfqhd end--%>
 
 </head>
